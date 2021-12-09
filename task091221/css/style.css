@@ -1,0 +1,11 @@
+.active {
+    display: block !important;
+}
+
+/* .accordion-body {
+    display: none;
+} */
+
+.accordion-header {
+    cursor: pointer;
+}
